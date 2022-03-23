@@ -1,8 +1,3 @@
 this is my first commit!
-<<<<<<< HEAD
-This is another commit.
-This is the 3rd commit.
-=======
 
 This Update is in the new_feature branch.
->>>>>>> new_features
